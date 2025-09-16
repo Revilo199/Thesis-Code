@@ -9,3 +9,5 @@ The code (without modifications) will output two files:
 `{n}x{h}bbtwo.png` and `{n}x{h}bbtwoconvexstore.txt` (note "bbtwo" was the final ordering of the convex modules that I used).
 The first is the nice 'image' I used as an output.
 The second is the visualization of all of the convex modules, in the same ordering.
+
+Lastly, in the terminal, the code will say what the calculated determinant is. The largest one I ever generated was 5x6 (the determinant is saved in the code), feel free to use a more powerful computer to try bigger ones, or mess around with whatever/optimize. I did this all on my shitty old laptop lol
