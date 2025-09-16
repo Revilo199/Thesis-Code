@@ -1366,7 +1366,7 @@ n, h = 4, 4
 reduce = False
 timeestimates = True
 dosingle = True
-printmatrix = True
+printmatrix = False
 savematrix = True
 order = "bbtwo"
 printconvex = True
@@ -1436,4 +1436,5 @@ if dostuff:
                 )
                 if printmatrix:
                     print(mat)
+
                 print("")
